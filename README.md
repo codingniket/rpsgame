@@ -1,4 +1,4 @@
-# Comedy Night Chat-Bot
+# Rock Paper Scissors Game 
 
 ## 💡 Inspiration
 
